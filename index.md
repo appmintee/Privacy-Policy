@@ -7,7 +7,7 @@ At Mintee, we value your privacy and are committed to protecting your personal i
 By using our app, you agree to the collection and use of information in accordance with this policy.
 
 ### 1. *Information We Collect*
-We collect the following types of information when you use [App Name]:
+We collect the following types of information when you use Mintee:
 
 - *Personal Information:* This includes information you provide directly, such as your name, email address, and any other details you choose to share with us when signing up or using our services.
   
@@ -41,7 +41,7 @@ You have the following rights regarding your personal information:
   
 - *Opt-Out:* You can opt out of receiving marketing emails by following the unsubscribe instructions in any email we send you.
 
-- *Data Deletion:* You may request to delete your personal data by contacting us at [contact email]. Please note that some data may be retained for legal or administrative purposes.
+- *Data Deletion:* You may request to delete your personal data by contacting us at appmintee@gmail.com. Please note that some data may be retained for legal or administrative purposes.
 
 ### 6. *Children’s Privacy*
 Mintee does not knowingly collect or solicit personal information from anyone under the age of 13. If we learn that we have collected personal information from a child under 13, we will take steps to delete that information.
@@ -52,5 +52,4 @@ We may update this Privacy Policy from time to time. When we do, we will post th
 ### 8. *Contact Us*
 If you have any questions about this Privacy Policy or our data practices, please contact us at:
 
-Email: [contact email]  
-Address: [physical address, if applicable]
+Email: appmintee@gmail.com 
