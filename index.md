@@ -1,8 +1,4 @@
----
-title: Privacy Policy - Mintee
-layout: null
----
-
+<link rel="stylesheet" href="style.css">
 
 *Privacy Policy for Mintee*
 
