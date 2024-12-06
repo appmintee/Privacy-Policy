@@ -1,3 +1,9 @@
+---
+title: Privacy Policy - Mintee
+layout: null
+---
+
+
 *Privacy Policy for Mintee*
 
 *Last Updated: December 5, 2024*
