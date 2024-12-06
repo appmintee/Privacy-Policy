@@ -2,6 +2,8 @@
 title: Privacy Policy - Mintee
 ---
 
+<link rel="stylesheet" href="style.css">
+
 *Privacy Policy for Mintee*
 
 *Last Updated: December 5, 2024*
