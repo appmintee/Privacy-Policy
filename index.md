@@ -1,12 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy - Mintee</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
+---
+title: Privacy Policy - Mintee
+---
 
 *Privacy Policy for Mintee*
 
@@ -63,7 +57,3 @@ We may update this Privacy Policy from time to time. When we do, we will post th
 If you have any questions about this Privacy Policy or our data practices, please contact us at:
 
 Email: appmintee@gmail.com 
-
-
-</body>
-</html>
